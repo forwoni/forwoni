@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there 👋 I'm Ha Won!
 
-<!--
-**forwoni/forwoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student with a growing passion for backend development.  
+Currently diving deep into **Spring Boot**, building solid server-side applications and exploring how backend systems work.  
+I mostly work with **MySQL** as my go-to database, and I'm always eager to learn better ways to structure and manage data.
 
-Here are some ideas to get you started:
+This GitHub is where I’ll be documenting my journey — one project at a time.  
+I'm excited for all the things I’ll create, learn, and share along the way. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Ha Won's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=github_dark)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you want to chat about backend dev, projects, or just say hi!  
+📧 Email: ktion0619@naver.com
+
